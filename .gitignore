@@ -1,0 +1,11 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+
+# Data the notebooks download
+**/data/tickets_v1.csv
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
