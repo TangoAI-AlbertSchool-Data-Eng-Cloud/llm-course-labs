@@ -1,0 +1,426 @@
+{
+ "what": "The 20 reviews' records as a person checked them, for comparison. Schema: the lesson's ReviewRecord.",
+ "checked": "2026-10-02",
+ "credit": "Review text and titles: Amazon Reviews'23 (McAuley Lab, CC BY-SA 4.0), through Albert's Marketplace's release v1.0.0.",
+ "records": [
+  {
+   "review_id": 96001,
+   "language": "en",
+   "sentiment": "positive",
+   "aspects": [
+    {
+     "aspect": "scent",
+     "polarity": "positive",
+     "evidence": "Smells good"
+    },
+    {
+     "aspect": "texture",
+     "polarity": "positive",
+     "evidence": "feels great"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 180438,
+   "language": "es",
+   "sentiment": "positive",
+   "aspects": [
+    {
+     "aspect": "texture",
+     "polarity": "positive",
+     "evidence": "Textura acuosa"
+    },
+    {
+     "aspect": "quality",
+     "polarity": "positive",
+     "evidence": "De los mejores protectores solares que hay"
+    },
+    {
+     "aspect": "effectiveness",
+     "polarity": "positive",
+     "evidence": "Espectacular para pieles grasas, playa, días soleados"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 143272,
+   "language": "es",
+   "sentiment": "positive",
+   "aspects": [
+    {
+     "aspect": "quality",
+     "polarity": "positive",
+     "evidence": "de buena calidad"
+    },
+    {
+     "aspect": "packaging",
+     "polarity": "mixed",
+     "evidence": "Las perlas se ven bien cosidas y difícil de caerse. El forro se ve un poco frágil o fácil de despegarse"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 201968,
+   "language": "fr",
+   "sentiment": "mixed",
+   "aspects": [
+    {
+     "aspect": "effectiveness",
+     "polarity": "negative",
+     "evidence": "n a pas donner le résultat escompté. pas de réduction de cellulite ni sur les cuisses ni sur les hanches"
+    },
+    {
+     "aspect": "texture",
+     "polarity": "positive",
+     "evidence": "la crème est onctueuse"
+    },
+    {
+     "aspect": "scent",
+     "polarity": "positive",
+     "evidence": "tres bonne odeur , pas forte ni tenace"
+    },
+    {
+     "aspect": "skin_reaction",
+     "polarity": "positive",
+     "evidence": "Elle a laissé ma peau souple , douce et velouté"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 97361,
+   "language": "en",
+   "sentiment": "positive",
+   "aspects": [
+    {
+     "aspect": "scent",
+     "polarity": "positive",
+     "evidence": "this one smelled good on me, it is a pretty almost amber, nutty, slight vanilla there as well"
+    },
+    {
+     "aspect": "packaging",
+     "polarity": "negative",
+     "evidence": "My bottle came with a leak"
+    },
+    {
+     "aspect": "seller_service",
+     "polarity": "negative",
+     "evidence": "My bottle came with a leak, that was the only negative. Maybe the seller will reach out"
+    },
+    {
+     "aspect": "effectiveness",
+     "polarity": "positive",
+     "evidence": "moderate sillage, longevity lasts on clothes longer than on skin"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": true
+  },
+  {
+   "review_id": 100440,
+   "language": "en",
+   "sentiment": "positive",
+   "aspects": [
+    {
+     "aspect": "price",
+     "polarity": "positive",
+     "evidence": "nice price"
+    },
+    {
+     "aspect": "seller_service",
+     "polarity": "positive",
+     "evidence": "great service"
+    },
+    {
+     "aspect": "effectiveness",
+     "polarity": "positive",
+     "evidence": "works great holds a charge"
+    },
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "the clip holding it broke"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": true
+  },
+  {
+   "review_id": 102813,
+   "language": "en",
+   "sentiment": "positive",
+   "aspects": [
+    {
+     "aspect": "effectiveness",
+     "polarity": "positive",
+     "evidence": "I finally fill eye brows with little work"
+    },
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "the pencil broke a little twice"
+    },
+    {
+     "aspect": "quantity",
+     "polarity": "negative",
+     "evidence": "it makes me complaint about the length"
+    },
+    {
+     "aspect": "ease_of_use",
+     "polarity": "positive",
+     "evidence": "I love this pencil"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": true
+  },
+  {
+   "review_id": 112042,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "effectiveness",
+     "polarity": "negative",
+     "evidence": "didn't see any amazing results"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 205721,
+   "language": "en",
+   "sentiment": "mixed",
+   "aspects": [
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "Hair quality is poor  tangling a lot"
+    },
+    {
+     "aspect": "packaging",
+     "polarity": "positive",
+     "evidence": "packing is so good plus the gift  I love it"
+    },
+    {
+     "aspect": "delivery",
+     "polarity": "positive",
+     "evidence": "I like the way my parcel was handled too"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 161253,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "quantity",
+     "polarity": "negative",
+     "evidence": "item listed 10pc, only received 1pc"
+    },
+    {
+     "aspect": "seller_service",
+     "polarity": "negative",
+     "evidence": "Got my refund, that's why I gave 1 star. Thanks for nothing."
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": false
+  },
+  {
+   "review_id": 158930,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "effectiveness",
+     "polarity": "negative",
+     "evidence": "Started cracking the next day"
+    },
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "will crack day 2"
+    },
+    {
+     "aspect": "ease_of_use",
+     "polarity": "positive",
+     "evidence": "fast drying & shiny"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": false
+  },
+  {
+   "review_id": 165879,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "seller_service",
+     "polarity": "negative",
+     "evidence": "I RETURN it but I NEVER RECEIVED MY REFUND. SOMORE THAN EXTREMELY DISAPPOINTED WITH THE SERVICE"
+    },
+    {
+     "aspect": "skin_reaction",
+     "polarity": "negative",
+     "evidence": "left my skin extremely oily and pimples began to show up"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": false
+  },
+  {
+   "review_id": 154546,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "effectiveness",
+     "polarity": "negative",
+     "evidence": "Did not help remove my lashes"
+    },
+    {
+     "aspect": "skin_reaction",
+     "polarity": "negative",
+     "evidence": "burned my eyes"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": false
+  },
+  {
+   "review_id": 173451,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "scent",
+     "polarity": "negative",
+     "evidence": "Very strong scent that lingers and gives me a migraine"
+    },
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "One cap arrived broken"
+    },
+    {
+     "aspect": "seller_service",
+     "polarity": "negative",
+     "evidence": "there was no returns"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": false
+  },
+  {
+   "review_id": 107793,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "authenticity",
+     "polarity": "negative",
+     "evidence": "Almost seemed like a knock off"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 124732,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "Arrived open and empty"
+    },
+    {
+     "aspect": "delivery",
+     "polarity": "negative",
+     "evidence": "Arrived open and empty"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": null
+  },
+  {
+   "review_id": 161787,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "delivery",
+     "polarity": "negative",
+     "evidence": "Never received"
+    }
+   ],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 170920,
+   "language": "en",
+   "sentiment": "positive",
+   "aspects": [],
+   "defect_mentioned": false,
+   "would_recommend": null
+  },
+  {
+   "review_id": 114889,
+   "language": "en",
+   "sentiment": "negative",
+   "aspects": [
+    {
+     "aspect": "quality",
+     "polarity": "negative",
+     "evidence": "Came completely shattered and unusable"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": null
+  },
+  {
+   "review_id": 98330,
+   "language": "en",
+   "sentiment": "mixed",
+   "aspects": [
+    {
+     "aspect": "effectiveness",
+     "polarity": "mixed",
+     "evidence": "I have yet to see any improvement in my skin"
+    },
+    {
+     "aspect": "skin_reaction",
+     "polarity": "positive",
+     "evidence": "I DO like that this retinol doesn't irritate my skin, which is highly unusual"
+    },
+    {
+     "aspect": "ease_of_use",
+     "polarity": "negative",
+     "evidence": "the product won't dispense through the pump. It's too thick. I'm having to pull the cap off and shake the serum on to my fingertips"
+    },
+    {
+     "aspect": "packaging",
+     "polarity": "negative",
+     "evidence": "I wish it came with a dropper instead"
+    }
+   ],
+   "defect_mentioned": true,
+   "would_recommend": null
+  }
+ ]
+}

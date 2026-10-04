@@ -9,6 +9,7 @@ what to write.
 | Folder | Lesson |
 |---|---|
 | `l01-tokens-and-prompting/` | How LLMs generate tokens, and how to prompt them |
+| `l02-api-and-structured-output/` | Programmatic API use and structured outputs |
 
 ## Running a notebook
 

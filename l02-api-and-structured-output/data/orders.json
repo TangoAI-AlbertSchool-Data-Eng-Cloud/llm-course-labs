@@ -1,0 +1,2202 @@
+{
+ "source": "legacy_csv.tar.gz sha256 ac8132d9bb97a43b2c001ad923f7d95d8cd7df76e86e1f402c29c8da4ff3d2ef: orders, shipment, carrier, product, for the orders quoted in tickets-v1.0.0",
+ "orders": {
+  "561": {
+   "order_id": "561",
+   "order_date": "2025-07-15",
+   "shipments": [
+    {
+     "product": "Nuk Brush (Green/White)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-07-22",
+     "delivered": "2025-07-21"
+    }
+   ]
+  },
+  "608": {
+   "order_id": "608",
+   "order_date": "2023-10-19",
+   "shipments": [
+    {
+     "product": "Segbeauty empty bottle 741",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-26"
+    },
+    {
+     "product": "INM Northern Lights Hologram Silver Top Coat 2x",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-26"
+    },
+    {
+     "product": "Tangle Pets CUPCAKE THE CAT- The Detangling Brush in a Plush, Great for Any Hair Type, Removable Plush, As Seen on Shark Tank",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-22"
+    },
+    {
+     "product": "28 Pieces Honey Pots Shaped Lip Gloss Tube Empty Lip Gloss Containers Lip Balm Bottle Refillable Cute Lipstick Tubes with Wand for Women Girl DIY Cosmetics (Clear)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-22"
+    },
+    {
+     "product": "Twin Pack of COTU (R) Ultimate Lather Bath Sponge - 5.75\" L x 4.75\" W",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-21"
+    },
+    {
+     "product": "Anti-Aging Face & Eye Cream for Wrinkles, Puffiness, Dark Circles & Brighter Skin - 98% Natural, 72% Organic - Vitamin C & E, ALA, AHA, CoQ10, Peptides - Puristica 1.7 Oz by Puristica",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-23"
+    },
+    {
+     "product": "2 PCS Silicone Highlight Caps for Coloring Hair with Hook Kit Professional Reusable Hairdressing Dyeing Staining Cap Set for Women Men",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-26",
+     "delivered": "2023-10-28"
+    }
+   ]
+  },
+  "2141": {
+   "order_id": "2141",
+   "order_date": "2024-07-16",
+   "shipments": [
+    {
+     "product": "Cosmetic Art 30-Piece Nail Polish Color Lacquer Set",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-07-23",
+     "delivered": "2024-07-19"
+    },
+    {
+     "product": "Duke Cannon Supply Co. THICK High-Viscosity Body Wash for Men - Smells Like Old Glory - Tobacco, Cedarwood, Amber, 3.4 Fl Oz, Travel Size Mini",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-07-23",
+     "delivered": "2024-07-23"
+    }
+   ]
+  },
+  "2777": {
+   "order_id": "2777",
+   "order_date": "2023-11-03",
+   "shipments": [
+    {
+     "product": "Ckeyin174;Brand New Rechargeable Callus Remover Electric Grinding Pedicure Kit--Retail Packing",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-10",
+     "delivered": "2023-11-07"
+    }
+   ]
+  },
+  "7381": {
+   "order_id": "7381",
+   "order_date": "2025-07-16",
+   "shipments": [
+    {
+     "product": "Eyebrow Tattoo Pen - iMethod Microblading Eyebrow Pencil with a Micro-Fork Tip Applicator Creates Natural Looking Brows Effortlessly and Stays on All Day, Strawberry Blond",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-07-23",
+     "delivered": "2025-07-24"
+    },
+    {
+     "product": "Salux Nylon Japanese Beauty Skin Bath Wash Cloth/towel (3) Blue Yellow and Pink",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-07-23",
+     "delivered": "2025-07-22"
+    },
+    {
+     "product": "Vanelc Eyebrow Tattoo Pen Microblading Eyebrow Pencil Tattoo Brow Ink Pen a Micro-Fork Tip,Long Lasting,Smudge-Proof Natural Hair-Like Defined Brows and Stays on All Day (Chestnut)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-07-23",
+     "delivered": "2025-07-25"
+    }
+   ]
+  },
+  "8307": {
+   "order_id": "8307",
+   "order_date": "2024-04-14",
+   "shipments": [
+    {
+     "product": "Allnice Magnetic Eyelashes Dual Magnets False Eyelashes Reusable 3D No Glue 3 Fake Lashes Extension with Tweezers for Women Makeup Natural Look 8 Pieces / 2 Pairs",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-04-21",
+     "delivered": "2024-04-17"
+    }
+   ]
+  },
+  "8893": {
+   "order_id": "8893",
+   "order_date": "2023-11-29",
+   "shipments": [
+    {
+     "product": "Sparkle & Co. Peel Base",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-06",
+     "delivered": "2023-12-04"
+    }
+   ]
+  },
+  "9013": {
+   "order_id": "9013",
+   "order_date": "2025-03-31",
+   "shipments": [
+    {
+     "product": "Headbands Soft Knitting 10 Pcs, Elastic Headbands for Girls Women Hair Accessories Solid Color Turban Headbands (10 Colors Set-Yellow Pink Green Beige Coffee Black Gray Red Wine Dark Green Navy Blue)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-07",
+     "delivered": "2025-04-04"
+    },
+    {
+     "product": "Brightup Magnetic Eyelashes with Eyeliner, 3D Natural Look Reusable False Magnetic lashes Kit, Long Lasting Waterproof Magnetic Eyeliner, Twinkle Mirror Box with Tweezers, Ideal For Gift (Rose Gold)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-07",
+     "delivered": "2025-04-05"
+    },
+    {
+     "product": "Dashing Diva Red Therapy Gloss Base Seal - Protective Base Coat for Gel Nail Strips - Hydrates, Nourishes, Protects Natural Nail - 0.23 Fl Oz",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-07",
+     "delivered": "2025-04-09"
+    },
+    {
+     "product": "Microderm360 Filters",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-07",
+     "delivered": "2025-04-07"
+    },
+    {
+     "product": "Salux Nylon Japanese Beauty Skin Bath Wash Cloth/towel (3) Blue Yellow and Pink",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-07",
+     "delivered": "2025-04-09"
+    },
+    {
+     "product": "Redken Quick Dry 18 Instant Finishing Hairspray 11 oz, 2 Pack…",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-07",
+     "delivered": "2025-04-05"
+    }
+   ]
+  },
+  "9968": {
+   "order_id": "9968",
+   "order_date": "2025-12-12",
+   "shipments": [
+    {
+     "product": "BBD King Flat Iron Lotion 4 oz.",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-19",
+     "delivered": "2025-12-19"
+    },
+    {
+     "product": "daniPro Doctor Formulated Nail Polish – Stop And Smell The Flowers – Lilac",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-19",
+     "delivered": "2025-12-18"
+    }
+   ]
+  },
+  "11588": {
+   "order_id": "11588",
+   "order_date": "2023-09-15",
+   "shipments": [
+    {
+     "product": "China Glaze Nail Polish, Mustard The Courage 1632",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-24"
+    },
+    {
+     "product": "Schmidt's Natural Deodorant Cedarwood + Juniper 2.65 Oz (6 Pack)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-24"
+    },
+    {
+     "product": "Saloniture Wall Mount Hair Iron and Blow Dryer Holder - Salon Appliance Rack",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-21"
+    },
+    {
+     "product": "False Eyelashes with Glue and Eyeliner, Newcally False Lashes Kit 4 Pairs with Liquid Eyeliner and Eyelash Glue",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-19"
+    },
+    {
+     "product": "Mini Cordless Travel Hair Straightener - USB Rechargeable Ceramic Portable Flat Iron with Adjustable Temperature & Auto Shut Off - Suitable for All Hair Types (Pink)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-18"
+    },
+    {
+     "product": "30000RPM Professional Electric Nail File Drill Manicure Pedicure Machine Tool Set Kit Bit Low Noise and Vibration (Black)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-20"
+    },
+    {
+     "product": "22\" Clip-in Straight Long Hair Extension (Purple)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-18"
+    },
+    {
+     "product": "32PCS Hair Curlers Hair Rollers Spiral Curls No Heat Hair Wavers Styling Kit Wave Magic Rollers for Short Hair Long Hair Medium Hair",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-21"
+    },
+    {
+     "product": "My Magic Mud - Whitening Tooth Powder, Polishing, Brightening, Charcoal, 1.06 oz. (150 uses (Original)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-22"
+    }
+   ]
+  },
+  "12269": {
+   "order_id": "12269",
+   "order_date": "2024-03-01",
+   "shipments": [
+    {
+     "product": "2 PACK Reusable Makeup Remover Pads - Zero Waste and Chemical Free Face Wipes - Makeup Remover Towel Face Cleansing Cloth Pads Plush Puff Face Cloths Eye Makeup Remover Pads Fashion New (Pink)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-08",
+     "delivered": "2024-03-09"
+    },
+    {
+     "product": "Avon Care Set of 2 Rich Moisture Comforting Nourishing Cream 5.0 fl. oz, 2223874",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-08",
+     "delivered": "2024-03-09"
+    },
+    {
+     "product": "wet n wild Megalast Lip Color, 24 Carrot Gold, 0.11 Fluid Ounce",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-08",
+     "delivered": "2024-03-08"
+    },
+    {
+     "product": "4-Tip Beard Pencil Filler for Men, Beard Filling Pen Kit with Brush, Long Lasting Waterproof Beard Pen - Fill, Shape, & Define Your Beard and Mustache - Striking Viking (Black)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-08",
+     "delivered": "2024-03-08"
+    },
+    {
+     "product": "MISKOS 35 Colors All Glitter Glow Eyeshadow Palette Shimmer 35OS Pigmented Warm Eyes Makeup Shadow Set",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-08",
+     "delivered": "2024-03-03"
+    },
+    {
+     "product": "Lume Soap for Face and Body - Free from Parabens, Phthalates, and Artificial Dyes - Hypoallergenic and Safe for Sensitive Skin - Single Bar (Warm Vanilla)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-08",
+     "delivered": "2024-03-06"
+    }
+   ]
+  },
+  "12725": {
+   "order_id": "12725",
+   "order_date": "2024-09-26",
+   "shipments": [
+    {
+     "product": "Etude House FIX&FIX Tone Up Primer SPF33 PA++ (Lavender)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-03",
+     "delivered": "2024-10-02"
+    }
+   ]
+  },
+  "13192": {
+   "order_id": "13192",
+   "order_date": "2025-11-27",
+   "shipments": [
+    {
+     "product": "Saltair Body Wash (Santal Bloom)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-04",
+     "delivered": "2025-12-04"
+    }
+   ]
+  },
+  "14906": {
+   "order_id": "14906",
+   "order_date": "2026-06-07",
+   "shipments": [
+    {
+     "product": "MAC Pro Palette Refill Eyeshadow Pan OMEGA",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-14",
+     "delivered": "2026-06-16"
+    },
+    {
+     "product": "Crocodile Repair Face Serum for Acne Scars, Anti-Aging - Treats Acne, Wrinkles, Stretch Marks - Lightens Old Scars, Removes New Scars - for Men and Women",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-14",
+     "delivered": "2026-06-15"
+    }
+   ]
+  },
+  "15540": {
+   "order_id": "15540",
+   "order_date": "2023-11-25",
+   "shipments": [
+    {
+     "product": "Godefroy Tint Kit for Spot Coloring, Dark Brown",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-02",
+     "delivered": "2023-12-02"
+    }
+   ]
+  },
+  "16339": {
+   "order_id": "16339",
+   "order_date": "2024-11-10",
+   "shipments": [
+    {
+     "product": "Hair Cutting Umbrella Easy to make haircut at home! for every person for all age group from child to elder: A Barber Cape at home",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-11-17",
+     "delivered": "2024-11-12"
+    }
+   ]
+  },
+  "16862": {
+   "order_id": "16862",
+   "order_date": "2025-09-30",
+   "shipments": [
+    {
+     "product": "Foam 4 Month Pack",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-10-07",
+     "delivered": "2025-10-09"
+    },
+    {
+     "product": "Electric Toothbrush, Rechargeable Electric Sonic Toothbrush for Adult 48000 VPM, SONICOOL Toothbrush 2 Minutes Timer 3 Brushing Modes with 4 Replacement Heads IPX7 Waterproof",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-10-07",
+     "delivered": "2025-10-06"
+    }
+   ]
+  },
+  "18469": {
+   "order_id": "18469",
+   "order_date": "2024-11-30",
+   "shipments": [
+    {
+     "product": "Pet Silk Top Knot Gel (4 Ounce) - Pet Hair Gel for Taming Frizzy Hair & Controlling Flyaways – Dog Anti-Static Lotion Cream with Floral Fragrance – Eliminates Static Charges",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-12-07",
+     "delivered": "2024-12-05"
+    }
+   ]
+  },
+  "18543": {
+   "order_id": "18543",
+   "order_date": "2025-10-26",
+   "shipments": [
+    {
+     "product": "Eyelash Growth Serum for Long Eyelashes From Uptown Cosmeceuticals Contains Stem Cell & Myristoyl Pentapeptide-17, Dermatologist Lab Tested Lash & Eyebrow Growth Formula, 4 Months Supply, 3.5ml",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-02",
+     "delivered": "2025-10-29"
+    }
+   ]
+  },
+  "18773": {
+   "order_id": "18773",
+   "order_date": "2025-05-23",
+   "shipments": [
+    {
+     "product": "Gold & Snail Hydrogel Eye Patch (60 pcs) by Petitfee",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-05-30",
+     "delivered": "2025-05-29"
+    }
+   ]
+  },
+  "19842": {
+   "order_id": "19842",
+   "order_date": "2023-09-15",
+   "shipments": [
+    {
+     "product": "JOSI Disposable Needle Cartridges，50PCS rotary Needle Cartridges Standard round liner 1203RL, 1205RL, 1207RL, 1209RL, 1211RL",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-09-22",
+     "delivered": "2023-09-18"
+    }
+   ]
+  },
+  "19963": {
+   "order_id": "19963",
+   "order_date": "2025-08-09",
+   "shipments": [
+    {
+     "product": "Bath & Body Works Aromatherapy Sleep Lavender Cedarwood Creamy Body Scrub with Natural Essential Oils 11.5 oz / 326 g",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-16",
+     "delivered": "2025-08-16"
+    },
+    {
+     "product": "Shea Moisture Coconut and Hibiscus Combo Pack, Curl Enhancing Smoothie 12 Ounce & Gel Souffle 12 Ounce",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-16",
+     "delivered": "2025-08-14"
+    },
+    {
+     "product": "ANOGOL Free Cap + Purple Mix Pink Cosplay Wig with Ponytail for Cosplay Costume Party Halloween",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-16",
+     "delivered": "2025-08-17"
+    },
+    {
+     "product": "Gillette Sport Anti Perspirant & Deodorant, Training Day 2.6 oz (Pack of 3)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-16",
+     "delivered": "2025-08-14"
+    },
+    {
+     "product": "eBoot 10 Pieces Acrylic Nail Art Soak Off Clip Cap UV Gel Polish Remover Wrap Nail Tool (Black)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-16",
+     "delivered": "2025-08-16"
+    }
+   ]
+  },
+  "21593": {
+   "order_id": "21593",
+   "order_date": "2024-04-21",
+   "shipments": [
+    {
+     "product": "Bath Accessories Ice Bag, Zoo Animals",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-04-28",
+     "delivered": "2024-04-27"
+    }
+   ]
+  },
+  "24167": {
+   "order_id": "24167",
+   "order_date": "2023-12-14",
+   "shipments": [
+    {
+     "product": "LULU BLOSSOM Dreamsicle Body Balm, 2 Ounce",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-21",
+     "delivered": "2023-12-21"
+    },
+    {
+     "product": "You Are My Sunshine My Only Hair Extension 1575",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-21",
+     "delivered": "2023-12-18"
+    }
+   ]
+  },
+  "24468": {
+   "order_id": "24468",
+   "order_date": "2024-12-10",
+   "shipments": [
+    {
+     "product": "Beard Straightener Brush For Men,BEENLE Electric Heat Beard Straightener and Hair Straightener, Multifunctional Beard and Hair Straightening Brush Comb (beard straightener)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-12-17",
+     "delivered": "2024-12-15"
+    }
+   ]
+  },
+  "27469": {
+   "order_id": "27469",
+   "order_date": "2023-12-21",
+   "shipments": [
+    {
+     "product": "European Wax Center The Exfoliate",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-28",
+     "delivered": "2023-12-23"
+    },
+    {
+     "product": "Nexxxi Hair Extension Kit Plier Hook Pulling Needle Hook Bead Device Tool Kits with 800 Pieces Silicone Lined Micro Rings(4 Common Colours)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-28",
+     "delivered": "2023-12-26"
+    }
+   ]
+  },
+  "29333": {
+   "order_id": "29333",
+   "order_date": "2026-05-24",
+   "shipments": [
+    {
+     "product": "Wahl 5-Star G-Whiz High Precision Cordless Hair Trimmer 8986",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-05-31",
+     "delivered": "2026-06-01"
+    }
+   ]
+  },
+  "30203": {
+   "order_id": "30203",
+   "order_date": "2024-02-25",
+   "shipments": [
+    {
+     "product": "Monarch Cypress Collection Large Premium Microfiber Shawl Robe Natural Color Ultra Comfortable Luxury Unisex Mens Womens Hotel Bathrobe",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-03",
+     "delivered": "2024-03-01"
+    },
+    {
+     "product": "xo, Fetti Farm Party Supplies Temporary Tattoos - 30 Glitter Styles | Barnyard Animals, Petting Zoo, Cow, Horse, Tractor Trailer, Sheep",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-03",
+     "delivered": "2024-02-28"
+    }
+   ]
+  },
+  "31229": {
+   "order_id": "31229",
+   "order_date": "2023-12-02",
+   "shipments": [
+    {
+     "product": "MULTI PACK DEALS! Outre Synthetic Hair Braids X-Pression Kanekalon 3X Pre Stretched Braid 52\" (5-PACK, 1)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-09",
+     "delivered": "2023-12-10"
+    },
+    {
+     "product": "Eyebrow Gel Kit with Brow Soap Wax & 2PCS Eyebrow Brushes & Stencil Razor Set, Tinted Long Lasting Cruelty Free Eyebrow Gel for Natural Waterproof Eyebrow Makeup, Flake-proof, Smudge-proof, Black Brown",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-09",
+     "delivered": "2023-12-07"
+    },
+    {
+     "product": "Electric Portable Bidet",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-09",
+     "delivered": "2023-12-11"
+    }
+   ]
+  },
+  "31465": {
+   "order_id": "31465",
+   "order_date": "2025-11-19",
+   "shipments": [
+    {
+     "product": "Duufin 48 Pieces Plumeria Hair Clips Hawaiian Hair Flower Clips 1.97 Inches Foam Flower Clips for Bridal Wedding Party Beach (12 Colors)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-26",
+     "delivered": "2025-11-24"
+    },
+    {
+     "product": "Plastic Empty Spray Bottles for Cleaning Solutions Travel mist Spray Bottle Alcohol Plant Empty Spray Water Bottle Sprayer Leak Proof Technology 17oz Pack of 6",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-26",
+     "delivered": "2025-11-23"
+    },
+    {
+     "product": "UCANBE x Anwen CEllOPHANE Pro 21 Colors Makeup Eyeshadow Palette, Pigmented Matte Glitter Shimmer Metallic Natural Eye Shadow Pallet Make up Set Cosmetics",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-26",
+     "delivered": "2025-11-25"
+    },
+    {
+     "product": "Soft 'N Style Butterfly Clamps, Assorted Colors, 1 Dozen",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-26",
+     "delivered": "2025-11-21"
+    },
+    {
+     "product": "5 DAY Anti-Perspirant Deodorant Pads Regular Scent 75 Each (Pack of 2)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-26",
+     "delivered": "2025-11-21"
+    }
+   ]
+  },
+  "32300": {
+   "order_id": "32300",
+   "order_date": "2025-06-05",
+   "shipments": [
+    {
+     "product": "Philips Norelco HQ110 Shaving Head Cleaning Spray",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-12",
+     "delivered": "2025-06-11"
+    },
+    {
+     "product": "Krest Cleopatra 7 Inch All Purpose Barber Cutting Comb. Flat Back Styler Comb. Numbered ruler. Color Neon Pink. 6-Pack",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-12",
+     "delivered": "2025-06-08"
+    },
+    {
+     "product": "Replacement Toothbrush Heads Compatible With Oral B Braun Electric Toothbrush, 4 Count",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-12",
+     "delivered": "2025-06-12"
+    },
+    {
+     "product": "Aluminium Porcelain Tattoo Machine Gun for Shader Liner 8 Wrap Coils",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-12",
+     "delivered": "2025-06-10"
+    },
+    {
+     "product": "You Are My Sunshine My Only Hair Extension 866",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-12",
+     "delivered": "2025-06-08"
+    }
+   ]
+  },
+  "33062": {
+   "order_id": "33062",
+   "order_date": "2026-08-08",
+   "shipments": [
+    {
+     "product": "Hotop 50 Pack Snap Hair Clips Hair Barrettes for Kids, Girls and Women, 50 mm (Gold)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-15",
+     "delivered": "2026-08-14"
+    },
+    {
+     "product": "14pcs Nail Drill Bits Set,3/32 Inch Acrylic Nail Drill Bits with Case,Quartz Pointed Nail Bits for Nails,Cuticle Remover Bits, Manicure Tools",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-15",
+     "delivered": "2026-08-17"
+    },
+    {
+     "product": "GUM Crayola Anticavity Flouride Toothpaste, Tropical Twist 4.2 oz (Pack of 6)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-15",
+     "delivered": "2026-08-13"
+    },
+    {
+     "product": "Michel Mercier Sparkle Detangling Brush Green - For Normal Hair",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-15",
+     "delivered": "2026-08-15"
+    }
+   ]
+  },
+  "33245": {
+   "order_id": "33245",
+   "order_date": "2024-09-17",
+   "shipments": [
+    {
+     "product": "100 -12x15 Assorted Black/Pink/Purple/Blue/Lime Green Plastic Bags W/handles",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-24",
+     "delivered": "2024-09-23"
+    },
+    {
+     "product": "Willie Morrow's Unbreakable Thermo Blow Dry Nozzle",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-24",
+     "delivered": "2024-09-20"
+    },
+    {
+     "product": "Afro Coarse 100% Real Hair Mannequin Head Hairdresser Training Head Manikin Cosmetology Head (YAKI-K+C))",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-24",
+     "delivered": "2024-09-21"
+    },
+    {
+     "product": "3Packs Ombre Jumbo Braiding Hair 24 Inch Ombre Braiding Hair Extensions Synthetic High Temperature Fiber Jumbo Box Crochet Braids for Women(Black/Purple/Blue)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-24",
+     "delivered": "2024-09-22"
+    }
+   ]
+  },
+  "34288": {
+   "order_id": "34288",
+   "order_date": "2023-11-30",
+   "shipments": [
+    {
+     "product": "Newcally False Eyelashes Natural Soft Light Volume Wispy Handmade Faux Lashes 10 Pairs Multipack",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-07",
+     "delivered": "2023-12-08"
+    }
+   ]
+  },
+  "34746": {
+   "order_id": "34746",
+   "order_date": "2023-10-14",
+   "shipments": [
+    {
+     "product": "Noyah Lipstick, Apricot Swirl, 0.16 Ounce",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-21",
+     "delivered": "2023-10-20"
+    },
+    {
+     "product": "7 Packs Dreadlocs Faux Locs Hair Extensions 18 Inch Straight Goddess Locs Black Synthetic Crochet Hair Soft Crochet Braids (18 Inch, 1B#)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-21",
+     "delivered": "2023-10-16"
+    },
+    {
+     "product": "Tea Tree Lemon Sage Thickening Liter Duo Set",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-21",
+     "delivered": "2023-10-16"
+    }
+   ]
+  },
+  "35393": {
+   "order_id": "35393",
+   "order_date": "2023-10-15",
+   "shipments": [
+    {
+     "product": "Concord Stainless Steel Chinese Kitchen Cleaver Chef's Knife",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-22",
+     "delivered": "2023-10-23"
+    }
+   ]
+  },
+  "35683": {
+   "order_id": "35683",
+   "order_date": "2026-09-08",
+   "shipments": [
+    {
+     "product": "Rembrandt Deeply White Whitening Mouthwash with Fluoride Fresh Mint, 16 Ounce",
+     "carrier": "Albatros Parcels",
+     "status": "in_transit",
+     "estimated_delivery": "2026-09-15",
+     "delivered": null
+    }
+   ]
+  },
+  "37111": {
+   "order_id": "37111",
+   "order_date": "2024-05-27",
+   "shipments": [
+    {
+     "product": "Professional Halo Orbiting Infrared Hair color Processor and dryer w/rolling stand",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-06-03",
+     "delivered": "2024-06-02"
+    }
+   ]
+  },
+  "37629": {
+   "order_id": "37629",
+   "order_date": "2025-11-20",
+   "shipments": [
+    {
+     "product": "ROYAL COPENHAGEN by Royal Copenhagen COLOGNE 8 OZ for MEN ---(Package Of 2)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-27",
+     "delivered": "2025-11-25"
+    }
+   ]
+  },
+  "38796": {
+   "order_id": "38796",
+   "order_date": "2026-05-28",
+   "shipments": [
+    {
+     "product": "Eyebrow Gel - Waterproof, Natural, Long Lasting, Sweat Resistant, Transfer Proof, Fills and Thickens Brows, Smudge-Proof Tinted Liquid Brow Makeup Gel…",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-04",
+     "delivered": "2026-06-02"
+    }
+   ]
+  },
+  "39805": {
+   "order_id": "39805",
+   "order_date": "2024-11-12",
+   "shipments": [
+    {
+     "product": "Solar D Sunscreen Active SPF50 4oz Tube",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-11-19",
+     "delivered": "2024-11-20"
+    }
+   ]
+  },
+  "40145": {
+   "order_id": "40145",
+   "order_date": "2024-06-19",
+   "shipments": [
+    {
+     "product": "Maxyouth Peptide Anti Aging Wrinkle Eye Serum - One Of The Most Effective Eye Cream Eye Gel for Under Eye Bags, Wrinkles, Puffiness.",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-06-26",
+     "delivered": "2024-06-23"
+    }
+   ]
+  },
+  "40518": {
+   "order_id": "40518",
+   "order_date": "2025-04-21",
+   "shipments": [
+    {
+     "product": "2 Pack Holographic Nail Polish, Irridescent Nail Polishes,Glitter Gorgeous Glossy Holographic Halo Glitter Polish Nail Art Nail Pigment Diamond Laser Nail Polish …",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-28",
+     "delivered": "2025-04-30"
+    }
+   ]
+  },
+  "42054": {
+   "order_id": "42054",
+   "order_date": "2025-04-28",
+   "shipments": [
+    {
+     "product": "Egyptian Musk - 5ml (1/6 Ounce) Bottle - Oils From India",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-05-05",
+     "delivered": "2025-04-30"
+    }
+   ]
+  },
+  "42249": {
+   "order_id": "42249",
+   "order_date": "2025-11-29",
+   "shipments": [
+    {
+     "product": "Gortin Boho Headbands Stretch Wide Head Bands Blcak Butterfly Hair Bands Yoga Turban Head Wraps Fashion Head Scarfs for Women and Girls 4 Pcs",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-06",
+     "delivered": "2025-12-08"
+    }
+   ]
+  },
+  "43102": {
+   "order_id": "43102",
+   "order_date": "2024-04-21",
+   "shipments": [
+    {
+     "product": "ZOYA All Snuggled Up Quad,4 Count (Pack of 1)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-04-28",
+     "delivered": "2024-04-27"
+    }
+   ]
+  },
+  "44923": {
+   "order_id": "44923",
+   "order_date": "2023-11-02",
+   "shipments": [
+    {
+     "product": "20 Packs halloween Finger Nail Claw Rings Ancient Queen Fingernail Claw Metal Finger Knuckle Claw for Halloween Women Cosplay Costume Drama Dance Show (Gold, Silver)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-09",
+     "delivered": "2023-11-10"
+    }
+   ]
+  },
+  "47708": {
+   "order_id": "47708",
+   "order_date": "2024-10-10",
+   "shipments": [
+    {
+     "product": "Standard Size Portable Hard Travel Gift Case for Dyson Supersonic HD01 Hairdryer, Forlin Magnetic Flip PU Leather Storage Box Organizer for Dyson Hair Dryer, Two Nozzles and Diffuser (Black)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-17",
+     "delivered": "2024-10-17"
+    },
+    {
+     "product": "For Pro Expert Nail Gel and Lacquer Shaker",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-17",
+     "delivered": "2024-10-17"
+    }
+   ]
+  },
+  "49890": {
+   "order_id": "49890",
+   "order_date": "2025-04-29",
+   "shipments": [
+    {
+     "product": "Wild Willie's Wax Remover - Works to gently remove wax residue while treating and conditioning the hair follicles from root to tip. 2 oz",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-05-06",
+     "delivered": "2025-05-02"
+    },
+    {
+     "product": "Eyebrow Stamp Stencil Kit,Brow Stamp Shaping Kit Eyebrow Stencil Kit with 20 Eye Brows Stencil for Beginners, Waterproof & Easy to Use Eyebrow Brown Definer (Dark Brown)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-05-06",
+     "delivered": "2025-05-02"
+    }
+   ]
+  },
+  "51346": {
+   "order_id": "51346",
+   "order_date": "2025-07-13",
+   "shipments": [
+    {
+     "product": "Professional Curling Iron 1 Inch with Glove-CONFU Curling Wand 6 Heating Setting & LCD Display Temperature, 2 Ceramic Tourmaline Coating, Anti-Scald Insulated Wand Tip (220 °F to 400 °F)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-07-20",
+     "delivered": "2025-07-16"
+    }
+   ]
+  },
+  "51736": {
+   "order_id": "51736",
+   "order_date": "2026-03-25",
+   "shipments": [
+    {
+     "product": "Kangaroo Spirit Gum Adhesive and Remover - Combo Pack of 0.439 fl. Oz. (13ml) Prosthetic Skin Adhesive & 0.439 fl. Oz. (13ml) Spirit Gum Remover",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-04-01",
+     "delivered": "2026-04-02"
+    }
+   ]
+  },
+  "51823": {
+   "order_id": "51823",
+   "order_date": "2024-11-09",
+   "shipments": [
+    {
+     "product": "3pcs SH90 Razor blade Replacment shaver Head Fits for S7000 S8000 S9000 S9031 S9041 S9111 S9121 S9151 S9161 S9171 S9311 S9321 RQ12",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-11-16",
+     "delivered": "2024-11-18"
+    }
+   ]
+  },
+  "52542": {
+   "order_id": "52542",
+   "order_date": "2025-04-02",
+   "shipments": [
+    {
+     "product": "karlery 70s 80s Rocker Mullet Wig Long Wave Blonde Dark Root Mutsache Wig with 6 Earrings and Golden Necklace Halloween Cosplay Wig",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-09",
+     "delivered": "2025-04-06"
+    },
+    {
+     "product": "BeautyBio GloPRO Regeneration Tools",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-09",
+     "delivered": "2025-04-10"
+    }
+   ]
+  },
+  "53590": {
+   "order_id": "53590",
+   "order_date": "2024-10-04",
+   "shipments": [
+    {
+     "product": "Skin Authority Olive, Fig, Shea Butter Body Cream , 4 ounces",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-11",
+     "delivered": "2024-10-09"
+    }
+   ]
+  },
+  "54346": {
+   "order_id": "54346",
+   "order_date": "2026-05-02",
+   "shipments": [
+    {
+     "product": "[2 PACK] Ammonium Lactate 12% Moisturizing Cream 140 Gm Flip-Top Tube by Major",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-05-09",
+     "delivered": "2026-05-07"
+    }
+   ]
+  },
+  "54410": {
+   "order_id": "54410",
+   "order_date": "2024-12-19",
+   "shipments": [
+    {
+     "product": "Activated Charcoal Sugar Wax for Brazilian Waxing - All Purpose Black Sugar Paste for Hair Removal,Strong Adsorption,Suitable for All Sensitive Skin",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-12-26",
+     "delivered": "2024-12-22"
+    }
+   ]
+  },
+  "55018": {
+   "order_id": "55018",
+   "order_date": "2024-05-09",
+   "shipments": [
+    {
+     "product": "Charlotte Tilbury Lip Liner Brush",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-05-16",
+     "delivered": "2024-05-14"
+    }
+   ]
+  },
+  "57023": {
+   "order_id": "57023",
+   "order_date": "2024-05-20",
+   "shipments": [
+    {
+     "product": "Gortin Boho Headbands Stretch Wide Head Bands Blcak Butterfly Hair Bands Yoga Turban Head Wraps Fashion Head Scarfs for Women and Girls 4 Pcs",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-05-27",
+     "delivered": "2024-05-27"
+    }
+   ]
+  },
+  "57954": {
+   "order_id": "57954",
+   "order_date": "2026-09-13",
+   "shipments": [
+    {
+     "product": "Kids Electric Toothbrushes Sonic Rechargeable Kids Electric Toothbrush with Timer ,4 Brush Heads，6 Modes,Sonic Electric Toothbrushes for Kids,Blue",
+     "carrier": "Kestrel Freight",
+     "status": "processing",
+     "estimated_delivery": "2026-09-20",
+     "delivered": null
+    }
+   ]
+  },
+  "59816": {
+   "order_id": "59816",
+   "order_date": "2026-06-11",
+   "shipments": [
+    {
+     "product": "Josie Maran Argan Enlightenment Illuminizer - Hydrate and Smooth Skin with this Creamy Highlighting Concentrate (15ml/0.5oz)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-18",
+     "delivered": "2026-06-17"
+    }
+   ]
+  },
+  "60156": {
+   "order_id": "60156",
+   "order_date": "2024-11-19",
+   "shipments": [
+    {
+     "product": "4 Pack 100% Natural Organic Egyptian Loofah Sponges, Exfoliating Shower Loofah Body Scrubbers Buff Away Dead Skin for Smoother",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-11-26",
+     "delivered": "2024-11-27"
+    }
+   ]
+  },
+  "63802": {
+   "order_id": "63802",
+   "order_date": "2025-12-01",
+   "shipments": [
+    {
+     "product": "Microblading Eyebrow Tattoo Pen with 1 Eyebrow Razor, Waterproof Fork Tip Eye Brow Pencil Marker, Liquid Applicator for Eyebrows, Creates Natural Looking Brows and Stays on All Day（03# Light Coffee)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-08",
+     "delivered": "2025-12-06"
+    },
+    {
+     "product": "Silver Miracles Colloidal Silver Cream - 4oz - Colloidal Silver Skin Healing Cream - Scent And Dye Free - Moisturizes Dry Skin - Hand Made In the USA - Made With 99.999% Pure Silver",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-08",
+     "delivered": "2025-12-05"
+    }
+   ]
+  },
+  "67556": {
+   "order_id": "67556",
+   "order_date": "2024-02-25",
+   "shipments": [
+    {
+     "product": "Ermenegildo Zegna - Zegna Uomo - Edt .24 Oz Mini",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-03",
+     "delivered": "2024-02-28"
+    }
+   ]
+  },
+  "67856": {
+   "order_id": "67856",
+   "order_date": "2026-05-09",
+   "shipments": [
+    {
+     "product": "Ruairie False Eyelashes, 20MM Lashes Long Dramatic Fluffy 5D Faux Mink Lashes Pack 4 Styles 20 Pairs Wholesale",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-05-16",
+     "delivered": "2026-05-18"
+    },
+    {
+     "product": "BeautyStat Mini Universal Essentials Skin Care Kit - 3 in 1: Universal C Skin Refiner + Universal Pro Bio Moisture Boost Cream + Universal Moisture Essence | Created by a Veteran Cosmetic Chemist",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2026-05-16",
+     "delivered": "2026-05-17"
+    }
+   ]
+  },
+  "68346": {
+   "order_id": "68346",
+   "order_date": "2025-11-13",
+   "shipments": [
+    {
+     "product": "The Ordinary Buffet + Copper Peptides 1%",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-20",
+     "delivered": "2025-11-20"
+    }
+   ]
+  },
+  "69071": {
+   "order_id": "69071",
+   "order_date": "2024-10-12",
+   "shipments": [
+    {
+     "product": "Gellen Wine Reds Colors Gel Nail Polish Set - Selected Lady Elegance 6 Colors Home Gel Manicure Kit",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-19",
+     "delivered": "2024-10-19"
+    },
+    {
+     "product": "4 Pieces White Hair Flower Clip Orchid Barrette Lily Flower Hair Clip Double Floral Rhinestone Alligator for Women Bridal Girl Wedding Party",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-19",
+     "delivered": "2024-10-19"
+    }
+   ]
+  },
+  "72893": {
+   "order_id": "72893",
+   "order_date": "2025-08-11",
+   "shipments": [
+    {
+     "product": "Paco Rabanne 1 ONE MILLION EDT 100ml 3.4oz Eau de Toilette Men NEW SEALED BOX",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-18",
+     "delivered": "2025-08-16"
+    }
+   ]
+  },
+  "74808": {
+   "order_id": "74808",
+   "order_date": "2024-08-04",
+   "shipments": [
+    {
+     "product": "Portable Makeup Bag Organizer Travel 3D Printing Small Cosmetic Bags Zipper Pen Cases Brush Storage Pouch for Women Girls Purse (Mandala Flowers)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-08-11",
+     "delivered": "2024-08-11"
+    }
+   ]
+  },
+  "75638": {
+   "order_id": "75638",
+   "order_date": "2024-09-22",
+   "shipments": [
+    {
+     "product": "ALICE Eyelashes False Lashes 20MM Fluffy Natural Fake Eyelashes 5 Pairs Long Dramatic 5D Wispy Faux Mink Eye Lashes Multipack",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-29",
+     "delivered": "2024-09-28"
+    },
+    {
+     "product": "Healov Pink Ice Globe Facial Roller Face Depuffer Wand Cryo Ball Massager Skin Care Tool with Handle, Set of 2 – Cold Massage Stick Beauty Orbs You Can Freeze for Cooling Under Eye Puffiness Relief",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-29",
+     "delivered": "2024-09-27"
+    },
+    {
+     "product": "No Gray Quick Fix Instant Touch-Up for Gray Roots (Set of 2, Brown (M. Brown))",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-29",
+     "delivered": "2024-09-25"
+    },
+    {
+     "product": "Self Adhesive Eyelashes, Reusable False Eyelashes, Four Styles Waterproof False Eyelashes (4 Pairs)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-29",
+     "delivered": "2024-09-25"
+    },
+    {
+     "product": "[2Pack] Galaxy Note 9 Screen Protector[Case Friendly][Anti-Bubble][HD Clear] Tempered Glass Screen Protector Compatible with Samsung Galaxy Note9",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-29",
+     "delivered": "2024-09-25"
+    }
+   ]
+  },
+  "75661": {
+   "order_id": "75661",
+   "order_date": "2024-09-20",
+   "shipments": [
+    {
+     "product": "Soft 'N Style Butterfly Clamps, Assorted Colors, 1 Dozen",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-09-27",
+     "delivered": "2024-09-26"
+    }
+   ]
+  },
+  "76444": {
+   "order_id": "76444",
+   "order_date": "2026-03-27",
+   "shipments": [
+    {
+     "product": "Eye Diamond Smooth and Firm Eye Cream: 100% All-Natural Anti-Aging Eye Serum – Get Rid of Wrinkles – Eye Cream for Dark Circles and Puffiness, Crows Feet and Fine Lines – 100% Guarantee",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-04-03",
+     "delivered": "2026-03-29"
+    }
+   ]
+  },
+  "77364": {
+   "order_id": "77364",
+   "order_date": "2026-09-05",
+   "shipments": [
+    {
+     "product": "SXC Cosmetics Nail Polish Set, 12 Neon Nail Lacquer 15ml/0.5oz Full Size Nail Lacquer Gift lot",
+     "carrier": "Swift Otter Delivery",
+     "status": "in_transit",
+     "estimated_delivery": "2026-09-12",
+     "delivered": null
+    },
+    {
+     "product": "Molecule 02 (typ) - Ambroxan (100ml)",
+     "carrier": "Kestrel Freight",
+     "status": "in_transit",
+     "estimated_delivery": "2026-09-12",
+     "delivered": null
+    }
+   ]
+  },
+  "77568": {
+   "order_id": "77568",
+   "order_date": "2023-10-28",
+   "shipments": [
+    {
+     "product": "KKW X KYLIE LIP SET",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-04",
+     "delivered": "2023-11-06"
+    }
+   ]
+  },
+  "78799": {
+   "order_id": "78799",
+   "order_date": "2025-04-23",
+   "shipments": [
+    {
+     "product": "Jeffree Star Blue Blood Palette Powder",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-04-30",
+     "delivered": "2025-04-25"
+    }
+   ]
+  },
+  "78805": {
+   "order_id": "78805",
+   "order_date": "2025-07-26",
+   "shipments": [
+    {
+     "product": "MEDCA Shower CAP 6 Pack DOT Design Shower Cap",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-02",
+     "delivered": "2025-08-04"
+    }
+   ]
+  },
+  "82738": {
+   "order_id": "82738",
+   "order_date": "2026-01-20",
+   "shipments": [
+    {
+     "product": "Honey Roll-on wax,Body Hair Removal Wax Cartridge,Depilatory Wax Roller,Roll-On Refillable Depilatory Heater Wax,for Normal & Sensive Skin, Body,Legs Self Waxing,for Professional or Home",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-01-27",
+     "delivered": "2026-01-28"
+    }
+   ]
+  },
+  "83100": {
+   "order_id": "83100",
+   "order_date": "2025-11-11",
+   "shipments": [
+    {
+     "product": "Mildiso Green Wigs for Women 14'' Short Green Wig St Patricks Day Cute Fashion Curly Wavy Synthetic Wigs for Party Costume Halooween M004G",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-18",
+     "delivered": "2025-11-14"
+    }
+   ]
+  },
+  "83965": {
+   "order_id": "83965",
+   "order_date": "2023-11-15",
+   "shipments": [
+    {
+     "product": "Nvnvdij Straight Clip in Hair Extensions Human Hair 8pcs Per Set with 18Clips Double Weft Clip in Human Hair Extensions Brazilian Virgin Human Hair Natural Black Color For Women (24 Inch, Straight Hair)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-22",
+     "delivered": "2023-11-20"
+    },
+    {
+     "product": "Peach & Lily Matcha Pudding Antioxidant Cream, 0.2 fl oz/ 6 ml, Trial Size Mini",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-22",
+     "delivered": "2023-11-19"
+    },
+    {
+     "product": "Not Your Mother's Deja Vu 'Do Style Extender 4 oz (Pack of 4)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-22",
+     "delivered": "2023-11-17"
+    },
+    {
+     "product": "Lip Balm for Real Men- Bourbon",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-22",
+     "delivered": "2023-11-22"
+    },
+    {
+     "product": "African American Mannequin Head 20\"-22\" Real Hair Manikin Head Hairdresser Cosmetology Doll Head for Styling Dye Cutting Braiding Practice with Clamp Natrual Black Real Hair",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-22",
+     "delivered": "2023-11-24"
+    },
+    {
+     "product": "Satin Bridesmaid Scrunchies Bachelorette Hair Ties Set of 6 sunglasses Bridal Shower No Damage Hairties ideas Gift for Wedding Party Favors Bridesmaid Proposal Gifts (12pcs Sage Green)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-22",
+     "delivered": "2023-11-19"
+    }
+   ]
+  },
+  "85184": {
+   "order_id": "85184",
+   "order_date": "2026-08-12",
+   "shipments": [
+    {
+     "product": "100 Pack Disposable Eyelash Mascara Brushes Wands Applicator Makeup Brush For Upper and Lower Lashes or Brows",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-19",
+     "delivered": "2026-08-18"
+    },
+    {
+     "product": "InnoLife Nail Art Drill Treatments KIT Electric File Buffer Bits Acrylics 6 File Pedicure Hands & Nails Repair (110V US 1.5M Plug) - Pink",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-19",
+     "delivered": "2026-08-17"
+    },
+    {
+     "product": "RODAN + FIELDS Enhancements Micro-Dermabrasion Paste 10 Packets 5 mL/0.17 Fl.Oz. each",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-19",
+     "delivered": "2026-08-17"
+    },
+    {
+     "product": "Best Anti Aging Face Cream With Both Retinol and Hyaluronic Acid! LARGE Size Facial Moisturizer For Youthful Radiant Skin | Enriched with Green Tea, Vitamin E & B5",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-19",
+     "delivered": "2026-08-15"
+    },
+    {
+     "product": "YMHPRIDE 2 PCS Clip in Bangs Human Hair for Women Natural Black Hair Bangs Clip in Fringe Hairpieces Straight Flat Bangs with Temples Flat Air Bangs",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-19",
+     "delivered": "2026-08-18"
+    }
+   ]
+  },
+  "88164": {
+   "order_id": "88164",
+   "order_date": "2024-02-24",
+   "shipments": [
+    {
+     "product": "beyondSTRAIGHT 8 oz",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-02",
+     "delivered": "2024-02-27"
+    },
+    {
+     "product": "C'est Moi Clarify Facial Wipes | Gentle Face Cleansing Wipes, Controls Breakouts, Clinically Tested Natural & Organic Non-Toxic Ingredients Including 1% Salicylic Acid for Acne, 30 Biodegradable Wipes",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-02",
+     "delivered": "2024-03-02"
+    },
+    {
+     "product": "Beauty without Cruelty Maximum Moisture Cream, 2 Ounce",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-02",
+     "delivered": "2024-02-27"
+    }
+   ]
+  },
+  "89661": {
+   "order_id": "89661",
+   "order_date": "2025-07-25",
+   "shipments": [
+    {
+     "product": "Exfoliating Bath Mitt with Natural Fiber (2 Pack, Blue)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-08-01",
+     "delivered": "2025-07-29"
+    }
+   ]
+  },
+  "90623": {
+   "order_id": "90623",
+   "order_date": "2024-11-13",
+   "shipments": [
+    {
+     "product": "Picoway 20 Pack Mouse Ears Solid Black and Red Bow Headband",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-11-20",
+     "delivered": "2024-11-21"
+    }
+   ]
+  },
+  "90958": {
+   "order_id": "90958",
+   "order_date": "2023-11-20",
+   "shipments": [
+    {
+     "product": "20pcs Fake Witch Nails Witch Zombie Ghost Monster Finger Claw for Halloween Party Props - Assorted Color",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-27",
+     "delivered": "2023-11-22"
+    },
+    {
+     "product": "I WOKE UP LIKE THIS May Morning Cushion SPF50+/PA+++ (no refill)– A Sun Protecting Sheer Cover Foundation Cushion for Natural Daily Makeup. For Dewy & Glowing Look – 0.44 oz",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-27",
+     "delivered": "2023-11-24"
+    },
+    {
+     "product": "Nurbo Handmade Love Owl wings Multilayer Knit Leather Rope Chain Bracelet",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-27",
+     "delivered": "2023-11-27"
+    },
+    {
+     "product": "Eyebrow Razors 32 pcs, Easy Face Razors for Women, Eyebrow Shapers Razors Women, Safety Facial Hair Remover for Women and Men, Exfoliating Tool, Hair Remover for Face",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-27",
+     "delivered": "2023-11-28"
+    }
+   ]
+  },
+  "91699": {
+   "order_id": "91699",
+   "order_date": "2023-10-23",
+   "shipments": [
+    {
+     "product": "Ronsaen Yaki Pre-stretched Braiding Hair Braid Professional Crochet Braids Braiding Hair Extension (18inch,8pcs, #1B)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-30",
+     "delivered": "2023-10-28"
+    },
+    {
+     "product": "5 Head Replacement Blade, Electric Beard Cutter Head, Razor Shaver Replacement Blade, Easy Install, Fit for All 5 Head Razors (Black)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-30",
+     "delivered": "2023-10-29"
+    },
+    {
+     "product": "Pretty Feet Callus Remover Exfoliating Foot Peel Mask for Soft Smooth Feet",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2023-10-30",
+     "delivered": "2023-11-01"
+    }
+   ]
+  },
+  "91753": {
+   "order_id": "91753",
+   "order_date": "2026-02-07",
+   "shipments": [
+    {
+     "product": "Soft 'N Style Butterfly Clamps, Assorted Colors, 1 Dozen",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-02-14",
+     "delivered": "2026-02-16"
+    },
+    {
+     "product": "ONOX Foot Solution Spray, 4 oz",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-02-14",
+     "delivered": "2026-02-13"
+    },
+    {
+     "product": "Mutli Color Rainbow Green Floral Tape Stem Wrap Gum Paste 1/2\" X 30 Yards 90 Feet Total w/Flower Crafting eGuide (1 Pack, White)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-02-14",
+     "delivered": "2026-02-14"
+    }
+   ]
+  },
+  "92541": {
+   "order_id": "92541",
+   "order_date": "2025-12-21",
+   "shipments": [
+    {
+     "product": "Finishing Touch Flawless Mini Beauty Cooler for Makeup and Skincare, 4 Liter",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-12-28",
+     "delivered": "2025-12-30"
+    }
+   ]
+  },
+  "95453": {
+   "order_id": "95453",
+   "order_date": "2025-02-17",
+   "shipments": [
+    {
+     "product": "Chialstar Lip Gloss Stick Makeup Waterproof Velvet Matte 24 Full Color Lipstick and Chialstar Storage Bag (24pcs) by Chialstar",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-02-24",
+     "delivered": "2025-02-26"
+    }
+   ]
+  },
+  "96513": {
+   "order_id": "96513",
+   "order_date": "2025-07-09",
+   "shipments": [
+    {
+     "product": "Replacement Blade Compatible with Philips Oneblade Series - Pack of 3",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-07-16",
+     "delivered": "2025-07-14"
+    }
+   ]
+  },
+  "96870": {
+   "order_id": "96870",
+   "order_date": "2024-01-24",
+   "shipments": [
+    {
+     "product": "AGPtEK Handmade Natural Fashion Long False Eyelashes For Makeup (10 Pairs)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-01-31",
+     "delivered": "2024-01-31"
+    }
+   ]
+  },
+  "97010": {
+   "order_id": "97010",
+   "order_date": "2025-02-24",
+   "shipments": [
+    {
+     "product": "Khadlaj Hareem Al Sultan Silver for Women CPO - Concentrated Perfume Oil (Attar) 35 ML (1.18 oz)",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-03-03",
+     "delivered": "2025-03-02"
+    }
+   ]
+  },
+  "97142": {
+   "order_id": "97142",
+   "order_date": "2025-02-02",
+   "shipments": [
+    {
+     "product": "Finishing Touch Flawless Mini Beauty Cooler for Makeup and Skincare, 4 Liter",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-02-09",
+     "delivered": "2025-02-10"
+    }
+   ]
+  },
+  "97412": {
+   "order_id": "97412",
+   "order_date": "2025-10-29",
+   "shipments": [
+    {
+     "product": "S-noilite 100 Strands Keratin I Tip Hair Extensions 20\" Cold Fusion Hairpiece 50g Full Head Pre Bonded Stick Tip Extensions Human Hair for Women #4/27 Medium Brown/Dark Blonde",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-05",
+     "delivered": "2025-11-05"
+    }
+   ]
+  },
+  "97771": {
+   "order_id": "97771",
+   "order_date": "2025-06-17",
+   "shipments": [
+    {
+     "product": "G u c c i Rush Women's Perfume",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-24",
+     "delivered": "2025-06-23"
+    },
+    {
+     "product": "Attachment Guide Comb Guards for oneisall Low Noise Dog Clippers #1, 3mm(1/8-Inch) Cut Length, Black for 26225202-003DE/P2/X3//X2",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-06-24",
+     "delivered": "2025-06-23"
+    }
+   ]
+  },
+  "98168": {
+   "order_id": "98168",
+   "order_date": "2025-10-17",
+   "shipments": [
+    {
+     "product": "Susenstone20 pcs/set Makeup Brush Set (15 Colors Concealer + 20 BRUSH)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-10-24",
+     "delivered": "2025-10-25"
+    }
+   ]
+  },
+  "98841": {
+   "order_id": "98841",
+   "order_date": "2024-11-27",
+   "shipments": [
+    {
+     "product": "Eyeliner Tool, 3PCS Easy No-Skip Silicone Eyeliner Applicator Tool,Reusable Silicone Eyeliner Tool Waterproof Long Lasting Eyeliner（Eyeliner tool + 2 Eyeliner Creams）",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-12-04",
+     "delivered": "2024-12-04"
+    }
+   ]
+  },
+  "99146": {
+   "order_id": "99146",
+   "order_date": "2026-06-16",
+   "shipments": [
+    {
+     "product": "ALDOM Hair Brush Portable Ionic Hair brush Detangler Brush Electric Mini Negative Ionic Round Hair Brush Vibrating Scalp Massage Brush Detangling Brush Hair Comb Antic-Static for Adults or Children",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-23"
+    },
+    {
+     "product": "1PC Elegant Artificial Pearl Barefoot Sandals Toe Ring Ankle Bracelet Chain Beach Wedding Foot Jewelry Anklets for Women and Girls",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-21"
+    },
+    {
+     "product": "Optic Shop Pro-Moisture Chamber With Elastic Head Band - Size Small",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-19"
+    },
+    {
+     "product": "Bag Balm - 0.33 Ounce On-the-Go Tube",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-24"
+    },
+    {
+     "product": "Airassi Colour Changing Foundation - 30ML TLM Colour Changing Foundation with 2 Pack Foundation Make Brush",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-21"
+    },
+    {
+     "product": "Yebeauty Shower Caps Disposable, Clear Plastic Elastic Shower Caps for Women, Waterproof Bathing Caps Hair Caps for SPA, Home, Hotel, Hair Salon, Travel | 100 Pack",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-24"
+    },
+    {
+     "product": "Professional Monomer liquid and Polymer Powder Acrylic Nail Kit for Doing Acrylic Nails. MMA free. Natural Pink Color",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2026-06-23",
+     "delivered": "2026-06-20"
+    }
+   ]
+  },
+  "99159": {
+   "order_id": "99159",
+   "order_date": "2024-01-21",
+   "shipments": [
+    {
+     "product": "Josie Maran Argan Enlightenment Illuminizing Wand by Josie Maran 0.17 half size",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-01-28",
+     "delivered": "2024-01-29"
+    },
+    {
+     "product": "LiangDian Body Wave 3 Bundles (12 14 16) Brazilian Human Hair 3 Bundles Brazilian Body Wave Virgin Hair Extensions Natural Color",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-01-28",
+     "delivered": "2024-01-30"
+    },
+    {
+     "product": "SERENITY SPONGES ALL NATURAL LOOFAH 8 PACK",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-01-28",
+     "delivered": "2024-01-28"
+    }
+   ]
+  },
+  "99538": {
+   "order_id": "99538",
+   "order_date": "2025-10-15",
+   "shipments": [
+    {
+     "product": "CHITRONIC Sonic Vibrating Facial Cleansing Silicone Brush - 3 Modes, Red/Blue Light Therapy, Non-slip silicone handle, IPX7Waterproof, Smart Timer, Exfoliating and Massaging, Automatic drying Function",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-10-22",
+     "delivered": "2025-10-21"
+    }
+   ]
+  },
+  "101829": {
+   "order_id": "101829",
+   "order_date": "2026-08-20",
+   "shipments": [
+    {
+     "product": "Clear Shampoo With Pump, 24/7 Total Care, 21.9 Ounce (Pack of 4)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2026-08-27",
+     "delivered": "2026-08-24"
+    }
+   ]
+  },
+  "102640": {
+   "order_id": "102640",
+   "order_date": "2026-06-24",
+   "shipments": [
+    {
+     "product": "Vero Pica Fresca Strawberry Chili Gummies - 100ct",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2026-07-01",
+     "delivered": "2026-07-02"
+    },
+    {
+     "product": "9 Pack Spa Headband Facial Makeup Headband, Coral Fleece Cosmetic Headband Face Wash Headband , Bow Hair band for Washing Face Terry Cloth Headbands for Women Girls (Color A)",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-07-01",
+     "delivered": "2026-06-28"
+    },
+    {
+     "product": "eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2026-07-01",
+     "delivered": "2026-06-27"
+    }
+   ]
+  },
+  "103231": {
+   "order_id": "103231",
+   "order_date": "2023-11-21",
+   "shipments": [
+    {
+     "product": "Nu Expressions Carrot Oil Hair Strengthener",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-28",
+     "delivered": "2023-11-24"
+    },
+    {
+     "product": "Gel Nail Lamp with 5 Storage Units, NEXPURE 48W UV LED Nail Dryer Curing Lamp 4 Timer Setting Auto Sensor for All Nail Polish",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-28",
+     "delivered": "2023-11-30"
+    },
+    {
+     "product": "Standard Size Portable Hard Travel Gift Case for Dyson Supersonic HD01 Hairdryer, Forlin Magnetic Flip PU Leather Storage Box Organizer for Dyson Hair Dryer, Two Nozzles and Diffuser (Black)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-11-28",
+     "delivered": "2023-11-28"
+    }
+   ]
+  },
+  "103539": {
+   "order_id": "103539",
+   "order_date": "2024-02-29",
+   "shipments": [
+    {
+     "product": "Sylhair Wigs with Bangs for Black Women 30 Inch Long Wavy Black Wig with Bangs loose wave Synthetic Wigs with Simulate Scalp Heat Resistant",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2024-03-07",
+     "delivered": "2024-03-05"
+    }
+   ]
+  },
+  "104494": {
+   "order_id": "104494",
+   "order_date": "2025-03-08",
+   "shipments": [
+    {
+     "product": "Westward Men Beard Oil & Leave-In Conditioner- Moisturizing Beard Conditioner- Beard Oil for Hair Growth- Softens & Strengthens Beards & Mustaches-1oz",
+     "carrier": "Blue Heron Logistics",
+     "status": "delivered",
+     "estimated_delivery": "2025-03-15",
+     "delivered": "2025-03-16"
+    },
+    {
+     "product": "GLO Science — GLO Classic Brilliant Teeth Whitening Device Kit w/ Patented Warming Mouthpiece and Blue LED Light Technology — Designed for Sensitive Teeth, White Device",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-03-15",
+     "delivered": "2025-03-11"
+    },
+    {
+     "product": "Synthetic Fiber Braiding Hair Extensions 90g Easy Braid Professional Itch Free Corchet Braids Yaki Texture 8 Pack/Lot Hot Water Setting Braids (#27)",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-03-15",
+     "delivered": "2025-03-12"
+    }
+   ]
+  },
+  "104687": {
+   "order_id": "104687",
+   "order_date": "2026-05-24",
+   "shipments": [
+    {
+     "product": "Gel Nail Polish Remover, AIBRIT 2 Pack Gel Polish Remover for Nails, Remove Soak off Gel Polish and Nail Polish, Removedor de Esmalte Gel, No Need Foil or Soaking or Wrapping, 0.5 fl oz./15ml Per",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-05-31",
+     "delivered": "2026-05-26"
+    }
+   ]
+  },
+  "105403": {
+   "order_id": "105403",
+   "order_date": "2024-10-22",
+   "shipments": [
+    {
+     "product": "LUBEX UV LED Nail Lamp Nail Dryer Light, 54W Professional Nail Curing Lamp Nail Light for Gel Polish with 30s/60s/99s Timer, Gel Nail Machine with Auto Sensor LCD Screen with Anti-UV Gloves Offered",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2024-10-29",
+     "delivered": "2024-10-24"
+    }
+   ]
+  },
+  "107591": {
+   "order_id": "107591",
+   "order_date": "2025-11-15",
+   "shipments": [
+    {
+     "product": "Harmonia Essence Organic Castor Oil - Unrefined, Cold Pressed Eyelash, Eyebrow Growth Serum - Promotes Nail, Hair Strengthening, Thickening, Moisturizing - 30ml Dropper Bottle with Applicator Brush",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2025-11-22",
+     "delivered": "2025-11-19"
+    }
+   ]
+  },
+  "108239": {
+   "order_id": "108239",
+   "order_date": "2026-01-05",
+   "shipments": [
+    {
+     "product": "Zalan Colored Zinc Stick Set of 8",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2026-01-12",
+     "delivered": "2026-01-13"
+    }
+   ]
+  },
+  "108388": {
+   "order_id": "108388",
+   "order_date": "2026-04-02",
+   "shipments": [
+    {
+     "product": "US Acrylic Large Clear Plastic Makeup Organizer with Removable Compartment | Signature Collection",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2026-04-09",
+     "delivered": "2026-04-09"
+    }
+   ]
+  },
+  "110140": {
+   "order_id": "110140",
+   "order_date": "2025-08-26",
+   "shipments": [
+    {
+     "product": "Didder 6 Pack Hair Scrunchy Rabbit Ear Hair Bow Bowknot Scrunchies Velvet Scrunchy Bobbles Elastic Hair Ties Bands Ponytail Holder, 6 Colors",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-09-02",
+     "delivered": "2025-09-02"
+    },
+    {
+     "product": "New York Biology Vitamin C Serum for Face and Eye Area - Highest Professional Grade with L Ascorbic Acid - 5X Powerful Anti Aging Serum for Age Spots, Dark Circles, Fine Lines and Wrinkles - 1 oz",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2025-09-02",
+     "delivered": "2025-08-31"
+    },
+    {
+     "product": "USB Charging Cord for Replacing Philips Norelco Model A00390",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-09-02",
+     "delivered": "2025-08-29"
+    },
+    {
+     "product": "Precision Clean Oral-B Vitality Rechargeable Electric Toothbrush",
+     "carrier": "Kestrel Freight",
+     "status": "delivered",
+     "estimated_delivery": "2025-09-02",
+     "delivered": "2025-08-28"
+    }
+   ]
+  },
+  "110645": {
+   "order_id": "110645",
+   "order_date": "2024-03-26",
+   "shipments": [
+    {
+     "product": "iLoveCos Cosmetics Makeup Brushes Professional Makeup Brush Set Makeup KitsKabuki Foundation Blending Blush Eyeliner Face Powder Brush 8pcs, Golden Black",
+     "carrier": "Albatros Parcels",
+     "status": "delivered",
+     "estimated_delivery": "2024-04-02",
+     "delivered": "2024-04-01"
+    },
+    {
+     "product": "Silver Miracles Colloidal Silver Cream - 4oz - Colloidal Silver Skin Healing Cream - Scent And Dye Free - Moisturizes Dry Skin - Hand Made In the USA - Made With 99.999% Pure Silver",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2024-04-02",
+     "delivered": "2024-03-30"
+    }
+   ]
+  },
+  "181571": {
+   "order_id": "181571",
+   "order_date": "2026-09-06",
+   "shipments": [
+    {
+     "product": "Sally Hansen Miracle Gel Set 6-Piece Random Collection",
+     "carrier": "Blue Heron Logistics",
+     "status": "in_transit",
+     "estimated_delivery": "2026-09-13",
+     "delivered": null
+    }
+   ]
+  },
+  "200691": {
+   "order_id": "200691",
+   "order_date": "2023-11-25",
+   "shipments": [
+    {
+     "product": "Coppertone SPF 50 Tattoo Guard Stick, 0.6 Fluid Ounce",
+     "carrier": "Swift Otter Delivery",
+     "status": "delivered",
+     "estimated_delivery": "2023-12-02",
+     "delivered": "2023-12-04"
+    }
+   ]
+  },
+  "217106": {
+   "order_id": "217106",
+   "order_date": "2026-09-05",
+   "shipments": [
+    {
+     "product": "Ohuhu 42-pack Twist-Flex Hair Curler Roller Set, Flexible Bendy Foam Hair Curling Rollers Rods, Heat-Free",
+     "carrier": "Kestrel Freight",
+     "status": "in_transit",
+     "estimated_delivery": "2026-09-12",
+     "delivered": null
+    },
+    {
+     "product": "Huda Beauty Liquid Matte Lipstick Venus - deep taupe-brown",
+     "carrier": "Blue Heron Logistics",
+     "status": "in_transit",
+     "estimated_delivery": "2026-09-12",
+     "delivered": null
+    }
+   ]
+  }
+ }
+}
