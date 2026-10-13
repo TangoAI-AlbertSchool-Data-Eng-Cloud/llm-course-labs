@@ -5,6 +5,8 @@
 
 # Data the notebooks download
 **/data/tickets_v1.csv
+**/data/policy-corpus/
+**/data/law/
 
 # Notebook and Python clutter
 .ipynb_checkpoints/
