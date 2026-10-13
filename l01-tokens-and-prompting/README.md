@@ -19,3 +19,9 @@ The tickets themselves are downloaded by the first cells into
 
 **Cost of one full run of the demo:** about $0.25, most of it in the cells that
 call Claude Opus 5.5. Skip those when replaying and it is about $0.05.
+
+**On Google Colab:** upload the notebook (for the demo, `data/t020_translations.json`
+too, into a folder named `data`); add your key under *Secrets*, named
+`ANTHROPIC_API_KEY`, with notebook access on; then uncomment each notebook's
+first code cell and run it before any other. It installs the packages and copies
+your key into the environment.
