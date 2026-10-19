@@ -10,6 +10,7 @@ what to write.
 |---|---|
 | `l01-tokens-and-prompting/` | How LLMs generate tokens, and how to prompt them |
 | `l02-api-and-structured-output/` | Programmatic API use and structured outputs |
+| `l03-rag/` | Retrieval-augmented generation |
 
 ## Running a notebook
 
@@ -19,24 +20,26 @@ what to write.
    ```bash
    pip install -r l01-tokens-and-prompting/requirements.txt
    ```
-3. Put your key in a file named `.env` in the lesson's folder:
+3. Put your key in a file named `.env` in the lesson's folder. With an
+   Anthropic key (`sk-ant-…`):
    ```text
    ANTHROPIC_API_KEY=...
    ```
-   `.env` is ignored by Git. **Never commit it, never paste the key in a
+   With an OpenRouter key (`sk-or-…`), these two lines instead, and no
+   `ANTHROPIC_API_KEY` line:
+   ```text
+   ANTHROPIC_BASE_URL=https://openrouter.ai/api
+   ANTHROPIC_AUTH_TOKEN=...
+   ```
+   The code is the same for both. `.env` is ignored by Git. **Never commit it, never paste the key in a
    notebook cell.**
 4. Open the notebook in Jupyter or VS Code and run it from the top.
 
 **If `import anthropic` fails** with "DLL load failed" (some managed Windows
 machines block compiled packages), run the notebook in Google Colab instead:
-upload it, add the key under *Secrets* as `ANTHROPIC_API_KEY`, and replace the
-`load_dotenv()` line with:
-
-```python
-from google.colab import userdata
-import os
-os.environ["ANTHROPIC_API_KEY"] = userdata.get("ANTHROPIC_API_KEY")
-```
+upload it, add the key under *Secrets* as `ANTHROPIC_API_KEY` (an Anthropic
+key) or `OPENROUTER_API_KEY` (an OpenRouter key), with notebook access on, then
+uncomment the notebook's first code cell and run it before any other.
 
 ## Data
 

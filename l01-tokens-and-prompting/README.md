@@ -6,7 +6,7 @@
 | `exercise-1.ipynb` | Exercise 1, in class, in pairs: route the tickets with three prompt patterns |
 | `exercise-2.ipynb` | Exercise 2, at home: where the eight labels fail |
 | `requirements.txt` | The packages, pinned to the versions the demo ran with |
-| `check_setup.py` | Run once before session 1: prints `ready` when Python, the packages and the key all work. Free |
+| `check_setup.py` | Run once before session 1: prints `ready` when Python, the packages and the key all work. Free with an Anthropic key, a fraction of a cent with an OpenRouter key |
 | `data/t020_translations.json` | Ticket T020 in English, and translated into French and German by a model for the token-count comparison. Test material, not data |
 
 **In the exercise notebooks**, cells whose first line is `# GIVEN:` run as
@@ -22,6 +22,7 @@ call Claude Opus 5.5. Skip those when replaying and it is about $0.05.
 
 **On Google Colab:** upload the notebook (for the demo, `data/t020_translations.json`
 too, into a folder named `data`); add your key under *Secrets*, named
-`ANTHROPIC_API_KEY`, with notebook access on; then uncomment each notebook's
+`ANTHROPIC_API_KEY` for an Anthropic key or `OPENROUTER_API_KEY` for an
+OpenRouter key, with notebook access on; then uncomment each notebook's
 first code cell and run it before any other. It installs the packages and copies
 your key into the environment.
