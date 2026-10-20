@@ -1,5 +1,7 @@
 """Run once before session 3. Downloads the embedding model (about 470 MB, once), then checks
-everything the lesson uses. Costs nothing: the key is checked by counting tokens, which is free."""
+everything the lesson uses. With an Anthropic key it costs nothing: the key is checked by counting tokens,
+which is free. With an OpenRouter key, which has no token counting, it sends one tiny request (a fraction of a cent)."""
+import os
 import sys
 import time
 
@@ -30,7 +32,14 @@ import anthropic
 from dotenv import load_dotenv
 
 load_dotenv()
-n = anthropic.Anthropic().messages.count_tokens(
-    model="claude-haiku-4-5", messages=[{"role": "user", "content": "Where is my parcel?"}]).input_tokens
-print(f"key works: 'Where is my parcel?' is {n} tokens on Claude Haiku 4.5")
+openrouter = "openrouter" in os.environ.get("ANTHROPIC_BASE_URL", "")
+if openrouter and os.environ.get("ANTHROPIC_API_KEY"):
+    sys.exit("With an OpenRouter key, remove the ANTHROPIC_API_KEY line from .env: the SDK would send that key instead.")
+client = anthropic.Anthropic()
+question = [{"role": "user", "content": "Where is my parcel?"}]
+if openrouter:
+    n = client.messages.create(model="claude-haiku-4-5", max_tokens=1, messages=question).usage.input_tokens
+else:
+    n = client.messages.count_tokens(model="claude-haiku-4-5", messages=question).input_tokens
+print(f"key works ({'OpenRouter' if openrouter else 'Anthropic'}): 'Where is my parcel?' is {n} tokens on Claude Haiku 4.5")
 print("ready")
