@@ -25,7 +25,8 @@ markdown cells. In `extract.py`, the same rule holds for each `STEP`.
 
 **On Google Colab:** upload the notebook, the `data` folder, and for
 Exercise 1 `extract.py` (for Exercise 2, `review_client.py`); add your key
-under *Secrets*, named `ANTHROPIC_API_KEY`; then uncomment each notebook's
+under *Secrets*, named `ANTHROPIC_API_KEY` for an Anthropic key or
+`OPENROUTER_API_KEY` for an OpenRouter key; then uncomment each notebook's
 first code cell and run it before any other.
 
 **Cost of one full run:** the demo about $0.11, Exercise 1 about $0.05,
