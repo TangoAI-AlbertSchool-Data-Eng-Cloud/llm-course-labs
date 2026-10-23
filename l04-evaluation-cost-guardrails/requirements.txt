@@ -1,0 +1,16 @@
+# Pinned to the versions the lesson 4 demo ran with, October 2026: lesson 3's packages,
+# plus sacrebleu and rouge-score for the reference metrics.
+# The extra index gives CPU-only PyTorch: without it, pip on Linux installs a
+# CUDA build of several GB. On Windows and macOS it changes nothing.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1
+sentence-transformers==6.1.0
+faiss-cpu==1.15.1
+pypdf==6.19.0
+anthropic==1.10.0
+python-dotenv==1.2.4
+pydantic==2.13.5
+sacrebleu==2.5.1
+rouge-score==0.1.2
+ipykernel==7.4.0
+jupyterlab==4.6.4

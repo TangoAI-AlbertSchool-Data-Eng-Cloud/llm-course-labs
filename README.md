@@ -11,6 +11,7 @@ what to write.
 | `l01-tokens-and-prompting/` | How LLMs generate tokens, and how to prompt them |
 | `l02-api-and-structured-output/` | Programmatic API use and structured outputs |
 | `l03-rag/` | Retrieval-augmented generation |
+| `l04-evaluation-cost-guardrails/` | Evaluation, cost and guardrails |
 
 ## Running a notebook
 

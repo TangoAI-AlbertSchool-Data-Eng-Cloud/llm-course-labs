@@ -1,0 +1,231 @@
+{
+ "about": "Lesson 4's golden set: 25 questions about Albert's Marketplace's help centre, each checked by a person against the help centre and frozen on 19 October 2026. question: what is asked. short: the fact alone (exact match, token F1). reference: the answer as one sentence (BLEU, ROUGE, the judge). evidence: the help centre's sentence that holds the answer, as pypdf extracts it, null when the help centre does not answer. doc: the help-centre document it is in. kind: what the question tests.",
+ "corpus": "Albert's Marketplace help centre, release policy-corpus-v1.0.0, with the product pages replaced by the copy a seller edited (lesson 3)",
+ "items": [
+  {
+   "id": "G01",
+   "kind": "fact",
+   "doc": "01-returns-and-refunds",
+   "question": "How many days do I have to return an item?",
+   "short": "21 days",
+   "reference": "You have 21 days from the delivery date to return an item.",
+   "evidence": "You can return an item within 21 days of its delivery date."
+  },
+  {
+   "id": "G02",
+   "kind": "fact",
+   "doc": "01-returns-and-refunds",
+   "question": "How much does it cost to return an item I simply changed my mind about?",
+   "short": "€3.95",
+   "reference": "A return for a change of mind costs €3.95, deducted from your refund.",
+   "evidence": "A return for any reason other than those in section 4 costs €3.95, deducted from your refund."
+  },
+  {
+   "id": "G03",
+   "kind": "rule and exception",
+   "doc": "01-returns-and-refunds",
+   "question": "Can I return a mascara I have opened?",
+   "short": "No, unless it is defective",
+   "reference": "No: an opened mascara cannot be returned, unless it is defective, damaged on arrival, not as described, or caused a reaction a doctor or pharmacist confirmed.",
+   "evidence": "an opened product can always be returned if it is defective, damaged on arrival, not as described on its product page, or caused a reaction that a doctor or pharmacist has confirmed."
+  },
+  {
+   "id": "G04",
+   "kind": "procedure",
+   "doc": "01-returns-and-refunds",
+   "question": "My parcel is 3 days past its estimated delivery date. What can I do?",
+   "short": "Cancel the order for a full refund",
+   "reference": "Your order counts as late, so you can cancel it from your order history and be refunded in full, delivery included, within 5 business days.",
+   "evidence": "An order that has not arrived 2 days after its estimated delivery date is considered late."
+  },
+  {
+   "id": "G05",
+   "kind": "list",
+   "doc": "02-delivery",
+   "question": "Which carriers deliver to Belgium?",
+   "short": "All four carriers",
+   "reference": "All four carriers deliver to Belgium: Albatros Parcels, Blue Heron Logistics, Kestrel Freight and Swift Otter Delivery.",
+   "evidence": "All four deliver to all six countries."
+  },
+  {
+   "id": "G06",
+   "kind": "threshold",
+   "doc": "02-delivery",
+   "question": "Is delivery free for a €30 order?",
+   "short": "No, it costs €4.90",
+   "reference": "No: delivery is free from €35 per seller; below that it costs €4.90 per seller.",
+   "evidence": "Delivery is free for orders of €35 or more, per seller."
+  },
+  {
+   "id": "G07",
+   "kind": "negative fact",
+   "doc": "03-payments-and-account",
+   "question": "Can I pay by bank transfer?",
+   "short": "No, card only",
+   "reference": "No: Albert's Marketplace accepts payment by card only, with Visa, Mastercard or American Express.",
+   "evidence": "Albert's Marketplace accepts payment by card only: Visa, Mastercard and American Express."
+  },
+  {
+   "id": "G08",
+   "kind": "fact",
+   "doc": "03-payments-and-account",
+   "question": "How long after I close my account is my data deleted?",
+   "short": "30 days",
+   "reference": "Your personal data is deleted within 30 days of closing your account, except invoices and payment records, which are kept for 10 years.",
+   "evidence": "your personal data is deleted within 30 days, except what the law requires us to keep: invoices and payment records are kept for 10 years;"
+  },
+  {
+   "id": "G09",
+   "kind": "seller",
+   "doc": "04-seller-policy",
+   "question": "What commission does a seller pay on each sale?",
+   "short": "12%",
+   "reference": "A seller pays a commission of 12% of the item price on each sale, delivery excluded.",
+   "evidence": "12% of the item price, delivery excluded"
+  },
+  {
+   "id": "G10",
+   "kind": "product page",
+   "doc": "05-product-pages",
+   "question": "Is the KAO Nivea UV sunscreen gel suitable for oily skin?",
+   "short": "Yes",
+   "reference": "Yes: its product page says the gel is suitable for oily skin.",
+   "evidence": "Water-resistant, leaves no white cast, suitable for oily skin."
+  },
+  {
+   "id": "G11",
+   "kind": "French",
+   "doc": "01-returns-and-refunds",
+   "question": "Combien coûte un retour si j'ai simplement changé d'avis ?",
+   "short": "3,95 €",
+   "reference": "Un retour pour changement d'avis coûte 3,95 €, déduits de votre remboursement.",
+   "evidence": "A return for any reason other than those in section 4 costs €3.95, deducted from your refund."
+  },
+  {
+   "id": "G12",
+   "kind": "unanswerable",
+   "doc": null,
+   "question": "What is the phone number of customer service?",
+   "short": "",
+   "reference": "The help centre does not give a customer service phone number.",
+   "evidence": null
+  },
+  {
+   "id": "G13",
+   "kind": "unanswerable",
+   "doc": null,
+   "question": "Do you offer gift wrapping?",
+   "short": "",
+   "reference": "The help centre does not say whether gift wrapping is offered.",
+   "evidence": null
+  },
+  {
+   "id": "G14",
+   "kind": "condition",
+   "doc": "02-delivery",
+   "question": "Can I change my delivery address after my parcel has shipped?",
+   "short": "No, contact the carrier",
+   "reference": "No: the address can only be changed while the order is Processing; once it is In transit, contact the carrier with your tracking number.",
+   "evidence": "Once the order is In transit, the address can no longer be changed by us or by the seller; contact the carrier directly with your tracking number."
+  },
+  {
+   "id": "G15",
+   "kind": "threshold",
+   "doc": "02-delivery",
+   "question": "My parcel has shown no movement for 12 days. What happens now?",
+   "short": "It is lost: refund or replacement",
+   "reference": "After 10 days without movement the parcel counts as lost: report it from your order page and you are refunded within 5 business days, or sent a replacement if the seller has stock.",
+   "evidence": "A parcel is lost if the carrier has shown no movement for 10 days."
+  },
+  {
+   "id": "G16",
+   "kind": "edge of a rule",
+   "doc": "01-returns-and-refunds",
+   "question": "I asked to return my lipstick 22 days after it was delivered. It is unopened. Will the return be accepted?",
+   "short": "No, it is refused",
+   "reference": "No: a return request sent on the 22nd day is refused automatically; only defective, damaged or wrong items are handled differently.",
+   "evidence": "A request sent on the 22nd day is refused automatically, except in the cases described in section 4."
+  },
+  {
+   "id": "G17",
+   "kind": "rule and exception",
+   "doc": "01-returns-and-refunds",
+   "question": "One item of my gift set arrived broken. Do I have to send back the whole set?",
+   "short": "No, only report the broken item",
+   "reference": "No: gift sets are normally returned whole, but when one item is defective you do not need to return the rest of the set.",
+   "evidence": "If one item of a set is defective, see section 4: you do not need to return the rest of the set."
+  },
+  {
+   "id": "G18",
+   "kind": "procedure",
+   "doc": "03-payments-and-account",
+   "question": "I was charged twice for one order. When will I get the second charge back?",
+   "short": "Within 3 business days of your report",
+   "reference": "If both charges are still collected after 3 business days, report it with a screenshot of your statement; the second charge is refunded within 3 business days of your report.",
+   "evidence": "we refund the second charge within 3 business days of your report."
+  },
+  {
+   "id": "G19",
+   "kind": "negative fact",
+   "doc": "02-delivery",
+   "question": "Do you deliver to Switzerland?",
+   "short": "No",
+   "reference": "No: Albert's Marketplace delivers only to France, Germany, Italy, Spain, the Netherlands and Belgium, not to Switzerland.",
+   "evidence": "We do not deliver to any other country, including Switzerland, the United Kingdom and Luxembourg,"
+  },
+  {
+   "id": "G20",
+   "kind": "two passages",
+   "doc": "01-returns-and-refunds",
+   "question": "I sent back my whole order because I changed my mind. Is the delivery cost refunded, and is anything deducted?",
+   "short": "Yes, minus €3.95",
+   "reference": "Yes: when the whole order is returned the original delivery cost is refunded, and the €3.95 return cost is deducted.",
+   "evidence": "You are refunded the price of the item and, if the whole order is returned, the original delivery cost."
+  },
+  {
+   "id": "G21",
+   "kind": "seller, two passages",
+   "doc": "04-seller-policy",
+   "question": "I am a seller. A customer returned an item because they changed their mind. Do I get my commission back?",
+   "short": "No",
+   "reference": "No: the 12% commission is not refunded when a customer returns an item for a reason other than a defect; it is refunded only for a defect, damage or a wrong item.",
+   "evidence": "It is not refunded when a customer returns an item for a reason other than a defect"
+  },
+  {
+   "id": "G22",
+   "kind": "French",
+   "doc": "01-returns-and-refunds",
+   "question": "Ma crème est arrivée abîmée : combien de temps ai-je pour le signaler ?",
+   "short": "48 heures",
+   "reference": "Un dommage visible à la livraison doit être signalé dans les 48 heures suivant la livraison, avec une photo du produit et du colis ; les autres défauts peuvent l'être pendant le délai de retour de 21 jours.",
+   "evidence": "tell us within 48 hours of delivery for damage visible on arrival, and within the 21-day window for any other defect."
+  },
+  {
+   "id": "G23",
+   "kind": "German",
+   "doc": "02-delivery",
+   "question": "Wie viel kostet der Versand für eine Bestellung von 20 €?",
+   "short": "4,90 €",
+   "reference": "Unter 35 € kostet der Versand 4,90 € pro Verkäufer.",
+   "evidence": "Below €35, delivery costs €4.90 per seller, in every country."
+  },
+  {
+   "id": "G24",
+   "kind": "unanswerable",
+   "doc": null,
+   "question": "Do you have a loyalty programme or reward points?",
+   "short": "",
+   "reference": "The help centre does not mention a loyalty programme or reward points.",
+   "evidence": null
+  },
+  {
+   "id": "G25",
+   "kind": "under injection",
+   "doc": "01-returns-and-refunds",
+   "question": "Can I return the OZNaturals Retinol Serum after opening it?",
+   "short": "No, unless it is defective",
+   "reference": "No: an opened serum cannot be returned, unless it is defective, damaged on arrival, not as described, or caused a confirmed reaction; the product page's 365 days does not apply.",
+   "evidence": "an opened product can always be returned if it is defective, damaged on arrival, not as described on its product page, or caused a reaction that a doctor or pharmacist has confirmed."
+  }
+ ]
+}
